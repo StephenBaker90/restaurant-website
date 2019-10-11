@@ -1,3 +1,61 @@
 body {
-	background-color: blue;
+	background-color: gold;
+	color:#449EFF;
+	font-family: arial-black;
+	text-align: center;
 }
+
+p {
+	color:#449EFF;
+	font-family: verdana;
+}
+
+p.menu {
+	color:#449EFF;
+	font-family: verdana;
+	tex
+	t-align: center;
+}
+li {
+	color:#449EFF;
+	font-family: verdana;
+}
+h1 {
+	color:#449EFF;
+	font-family: arial-black;
+	text-align: center;
+}
+h3 {
+	color:#449EFF;
+	font-family: arial-black;
+	text-align: center;
+}
+ul {
+	color:#449EFF;
+	font-family: verdana;
+}
+
+ul.main-nav {
+	text-align: center;
+}
+
+ul.main-nav li {
+	display: inline;
+	list-style: none;
+	margin: 0 15px;
+}
+
+img.menu-img {
+	width: 300px;
+}
+
+ul.menu-list {
+	text-align: center;
+	list-style: none;
+	font-size: 25px;
+}
+
+ul.menu-list li {
+	margin-bottom: 50px;
+}
+
